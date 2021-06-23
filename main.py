@@ -1,5 +1,6 @@
 import pygame
 import pickle
+#you could use the socket module because we are using this to read a data_file
 from os import path
 pygame.init()
 title_size = 48
